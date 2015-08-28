@@ -1,2 +1,1 @@
-# topcoder
-topcoder solutions 
+# hackerrank solutions 
